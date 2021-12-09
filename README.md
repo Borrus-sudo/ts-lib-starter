@@ -1,3 +1,4 @@
+<!-- DO NOT REMOVE - contributor_list:data:start:["Borrus-sudo"]:end -->
 # ts-lib-starter
 
 [![All Contributors](https://img.shields.io/github/contributors/Borrus-sudo/ts-lib-starter?color=orange)](#contributors-)
@@ -16,3 +17,12 @@
 Contributions are welcome! Whether it is a small documentation change or a breaking feature, we welcome it!
 
 _Please note: All contributions are taken under the MIT license_
+<!-- prettier-ignore-start -->
+<!-- DO NOT REMOVE - contributor_list:start -->
+## 👥 Contributors
+
+
+- **[@Borrus-sudo](https://github.com/Borrus-sudo)**
+
+<!-- DO NOT REMOVE - contributor_list:end -->
+<!-- prettier-ignore-end -->
