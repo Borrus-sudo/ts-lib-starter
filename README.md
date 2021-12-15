@@ -1,4 +1,4 @@
-<!-- DO NOT REMOVE - contributor_list:data:start:["Borrus-sudo"]:end -->
+<!-- DO NOT REMOVE - contributor_list:data:start:["Borrus-sudo", "dependabot[bot]"]:end -->
 # ⚖ ts-lib-starter
 
 [![All Contributors](https://img.shields.io/github/contributors/Borrus-sudo/ts-lib-starter?color=orange)](#contributors-)
@@ -23,6 +23,8 @@ _Please note: All contributions are taken under the MIT license_
 
 
 - **[@Borrus-sudo](https://github.com/Borrus-sudo)**
+
+- **[@dependabot[bot]](https://github.com/apps/dependabot)**
 
 <!-- DO NOT REMOVE - contributor_list:end -->
 <!-- prettier-ignore-end -->
