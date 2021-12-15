@@ -1,3 +1,4 @@
+<!-- DO NOT REMOVE - contributor_list:data:start:["Borrus-sudo"]:end -->
 # ⚖ ts-lib-starter
 
 [![All Contributors](https://img.shields.io/github/contributors/Borrus-sudo/ts-lib-starter?color=orange)](#contributors-)
