@@ -12,6 +12,7 @@
 - Uses tsup for building files.
 - `jest` and `ts-jest` are preconfigured right out of the box!
 - Has a contributor-list Github action configured by default!
+- Uses pnpmJS as its pkg manager by default!
 
 ## 🎉 Contributing
 Contributions are welcome! Whether it is a small documentation change or a breaking feature, we welcome it!
