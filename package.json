@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
-    "@commitlint/config-conventional": "^15.0.0",
+    "@commitlint/config-conventional": "^16.0.0",
     "@types/jest": "^27.0.3",
     "@types/node": "^16.11.12",
     "husky": "^7.0.0",
