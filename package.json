@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "test": "jest",
+    "test": "vitest",
+    "coverage": "vitest --coverage",
     "prepare": "husky install",
     "build": "tsup",
     "dev": "tsup --watch lib"
