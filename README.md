@@ -1,4 +1,4 @@
-<!-- DO NOT REMOVE - contributor_list:data:start:["Borrus-sudo", "dependabot[bot]"]:end -->
+<!-- DO NOT REMOVE - contributor_list:data:start:["Borrus-sudo", "JacobMGEvans", "dependabot[bot]"]:end -->
 
 # ⚖ ts-lib-starter
 
@@ -28,6 +28,8 @@ _Please note: All contributions are taken under the MIT license_
 
 
 - **[@Borrus-sudo](https://github.com/Borrus-sudo)**
+
+- **[@JacobMGEvans](https://github.com/JacobMGEvans)**
 
 - **[@dependabot[bot]](https://github.com/apps/dependabot)**
 
