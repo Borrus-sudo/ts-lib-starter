@@ -1,2 +1,4 @@
-import helloWorld from "./foo"
-helloWorld()
+import helloWorld from "./foo";
+helloWorld();
+
+export { helloWorld };
